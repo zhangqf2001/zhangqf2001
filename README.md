@@ -7,12 +7,12 @@
 ---
 
 ## 🔭 ​​I’m currently working on...​​
-# Building ​​reinforcement learning-based decision systems​​ for autonomous vehicles at Zhongguancun National Lab
+Building ​​reinforcement learning-based decision systems​​ for autonomous vehicles at Zhongguancun National Lab
 Fine-tuning ​​visual language models (Qwen2.5-VL)​​ for embodied intelligence applications at Beijing Humanoid Robotics Innovation Center
 Developing ​​safety verification frameworks​​ for autonomous driving edge scenarios
 
 ## 🌱 ​​I’m currently learning...​​
-# Advanced ​​multi-agent PP-RL algorithms​​ for complex traffic simulations
+Advanced ​​multi-agent PP-RL algorithms​​ for complex traffic simulations
 ​​vLLM optimization techniques​​ for humanoid robot deployment
 ​​Adversarial robustness methods​​ for autonomous systems
 

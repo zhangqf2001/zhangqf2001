@@ -1,5 +1,5 @@
 ## Hi there 👋
-# QinFan Zhang
+# Zhang QinFan 
 **🚀 Autonomous Driving Algorithms | Reinforcement Learning | Embodied Intelligence**  
 [](mailto:zy2343304@buaa.edu.cn)
 
